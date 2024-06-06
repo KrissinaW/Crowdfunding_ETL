@@ -1,7 +1,5 @@
 # **Crowdfunding_ETL_Project**
 # **Project 2- ETL mini project**
-
-![kisspng-crowdfunding-the-future-media-industries-ethics-5b567e7ab8cb50 7452630815323951307569](https://github.com/KrissinaW/Crowdfunding_ETL/assets/162597320/5a918b48-61ee-405a-88dc-1b8f7d671776)
 ![images](https://github.com/KrissinaW/Crowdfunding_ETL/assets/162597320/0018db78-826f-4bab-a921-e352f3605a8b)
 
 
