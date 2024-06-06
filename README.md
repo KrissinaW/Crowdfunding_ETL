@@ -32,13 +32,14 @@ Export the campaign DataFrame as campaign.csv and save it to your GitHub reposit
 Create the Contacts DataFrame
 Choose one of the following options:
 
-Option 1: Use Python dictionary methods
+**Option 1**: Use Python dictionary methods
 Import the contacts.xlsx file into a DataFrame.
 Iterate through the DataFrame, converting each row to a dictionary.
 Extract and transform the data, creating a new DataFrame.
 Split the name column into first_name and last_name.
 Export the DataFrame as contacts.csv and save it to your GitHub repository.
-Option 2: Use regular expressions
+
+**Option 2**: Use regular expressions
 Import the contacts.xlsx file into a DataFrame.
 Extract the contact_id, name, and email columns using regular expressions.
 Create a new DataFrame with the extracted data.
