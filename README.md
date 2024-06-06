@@ -78,5 +78,5 @@ Export the DataFrame as contacts.csv and save it to your GitHub repository.
 
  ChatGPT by OpenAI, version GPT-4, accessed June 2024. Available from: https://www.openai.com/chatgpt 
 
- -Chat GPT 4 was used in helping fix errors that were coming up in my SQL Query and other code needed for this project.
+ -Chat GPT 4 was used in helping fix errors that were coming up in SQL Query and other code needed for this project.
 
