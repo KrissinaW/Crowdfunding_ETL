@@ -62,7 +62,7 @@ Export the DataFrame as contacts.csv and save it to your GitHub repository.
 - Save the schema as crowdfunding_db_schema.sql and save it to your GitHub repository.
 
 - Create a new Postgres database named crowdfunding_db.
-- 
+  
 - Create tables in the correct order to handle foreign keys.
   
 - Verify table creation with SELECT statements.
