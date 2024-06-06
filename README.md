@@ -73,3 +73,10 @@ Export the DataFrame as contacts.csv and save it to your GitHub repository.
 - Import each CSV file into its corresponding SQL table.
 
 - Verify the data with SELECT statements.
+
+   # Resources Used:
+
+ ChatGPT by OpenAI, version GPT-4, accessed May 2024. Available from: https://www.openai.com/chatgpt 
+
+ -Chat GPT 4 was used in helping me fix errors that were coming up in my SQL Query.
+
