@@ -2,7 +2,7 @@
 
 ![images](https://github.com/KrissinaW/Crowdfunding_ETL/assets/162597320/0018db78-826f-4bab-a921-e352f3605a8b)
 
-# **Project 2- ETL mini project**
+**Project 2- ETL mini project**
 
 This project involves building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we create four CSV files and use them to create an ERD (Entity Relationship Diagram) and a table schema. Finally, we upload the CSV file data into a Postgres database.
 
