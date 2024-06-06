@@ -1,6 +1,9 @@
 # **Crowdfunding_ETL_Project**
 # **Project 2- ETL mini project**
 
+![kisspng-crowdfunding-the-future-media-industries-ethics-5b567e7ab8cb50 7452630815323951307569](https://github.com/KrissinaW/Crowdfunding_ETL/assets/162597320/5a918b48-61ee-405a-88dc-1b8f7d671776)
+
+
 This project involves building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we create four CSV files and use them to create an ERD (Entity Relationship Diagram) and a table schema. Finally, we upload the CSV file data into a Postgres database.
 
 # **Contributers**: 
