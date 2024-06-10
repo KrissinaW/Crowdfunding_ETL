@@ -47,13 +47,6 @@ Extract and transform the data, creating a new DataFrame.
 Split the name column into first_name and last_name.
 Export the DataFrame as contacts.csv and save it to your GitHub repository.
 
-**Option 2**: Use regular expressions
-Import the contacts.xlsx file into a DataFrame.
-Extract the contact_id, name, and email columns using regular expressions.
-Create a new DataFrame with the extracted data.
-Convert contact_id to an integer type.
-Split the name column into first_name and last_name.
-
 Export the DataFrame as contacts.csv and save it to your GitHub repository.
 
 - Create the Crowdfunding Database
